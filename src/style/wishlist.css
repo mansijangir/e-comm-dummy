@@ -1,0 +1,136 @@
+.empty-wishlist
+{
+  
+    padding: 10px 0;
+
+    max-width: 1140px;
+    margin: auto;
+    
+}
+.filled-wishlist
+{
+    display: none;
+}
+.empty-wishlist-img
+{
+    background: url(../images/emptywishlist.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: contain;
+    min-height: 400px;
+}
+.empty-wishlist-content
+{
+    text-align: center;
+}
+.add-wishlist
+{
+ 
+    border: none;
+    padding: 10px;
+    background-color:black ;
+    color:white;
+    font-size: 0.9em;;
+    cursor: pointer;
+}
+.add-wishlist:hover{
+    background-color:rgb(122, 121, 121) ;
+
+}
+.wishlist-container
+{
+    max-width: 1140px;
+ display: flex;
+    margin:  auto;
+
+  
+   padding: 10px;
+flex-wrap: wrap;
+}
+.wishlist-card
+{    word-wrap: break-word;
+    background-clip: border-box;
+    background-color: #fff;
+    border: 0.5px solid rgb(219, 217, 217);
+    display: flex;
+      /* min-width: 0; */
+    padding: 10px;
+   margin: 10px 10px 10px 0;
+    cursor: pointer;
+   width: 100%;
+    height:180px;
+}
+@media (min-width: 1024px) {
+    .wishlist-card{
+        width: 32%;
+  }}
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .wishlist-card{
+        width: 45%;
+  }}
+.remove-item
+{
+   padding-top: 10px;
+   color:  rgb(129, 127, 127);
+}
+
+.remove-item:hover
+{
+    color:rgb(255,111,97)
+}
+.wishlistproduct-img-container
+{
+    width: 100%;
+}
+.wishlistproduct-desc-container{
+    padding-left: 15px;
+    padding-bottom: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+
+   
+}
+.wishlist-desc
+{
+    font-size: 0.9em;
+}
+.wishlist-name, .wishlist-price
+{
+    font-size: 15px;
+    margin: 0;
+  font-weight: 600;
+}
+.add-to-cart
+{
+    margin-top: 10px;
+    border: none;
+    padding: 10px 0;
+    background-color:black ;
+    color:white;
+    font-size: 0.9em;;
+    cursor: pointer;
+}
+.add-to-cart:hover{
+    background-color:rgb(122, 121, 121) ;
+
+}
+.wishlist-box
+{
+    min-height: 700px;
+}
+.product-desc
+{
+    height: 50%;
+}
+.empty-cart-img
+{
+    background: url(../images/emptycart.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: contain;
+    min-height: 400px;
+}

@@ -1,0 +1,28 @@
+{
+   
+            "top":[
+        {
+            "collectionName":"bag's collection",
+            "collectionImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-1.jpg",
+            "small" : true
+        },
+        {
+            "collectionName":"printed men's shirt",
+            "collectionImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-2.jpg"
+}
+],
+
+
+    "bottom":
+    [
+        {
+            "collectionName":"basic women's dress",
+            "collectionImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-3.jpg"
+        },
+        {
+            "collectionName":"sweatshirts",
+            "collectionImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-4.jpg",
+            "small" : true
+        }
+    ]
+}

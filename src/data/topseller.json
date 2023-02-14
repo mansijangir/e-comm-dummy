@@ -1,0 +1,254 @@
+
+{
+  "topsellers":[
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-5.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-120.jpg",
+      "category": "Shoes",
+      "productName": "Leather mid-heel Sandals",
+      "productPrice": "$129.00",
+      "filter":"women",
+      "productID":1,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-6.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-121.jpg",
+      "category": "Dresses",
+      "productName": "Cotton floral print Dress",
+      "productPrice": "$40.00",
+      "filter":"women",
+      "productID":2,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-7.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-122.jpg",
+      "category": "Shoes",
+      "productName": "Leather Sneakers",
+      "productPrice": "$85.00",
+      "filter":"women",
+      "productID":3,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-8.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-8.jpg",
+      "category": "Tops",
+      "productName": "Cropped cotton Top",
+      "productPrice": "$29.00",
+      "filter":"women",
+      "productID":4,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-9.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-9.jpg",
+      "category": "Dresses",
+      "productName": "Floral print midi Dress",
+      "productPrice": "$50.00",
+      "filter":"women",
+      "productID":5,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-10.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-123.jpg",
+      "category": "Bags",
+      "productName": "Suede cross body Bag",
+      "productPrice": "$49.00",
+      "filter":"women",
+      "productID":6,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-11.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-124.jpg",
+      "category": "Skirts",
+      "productName": "Printed A-line Skirt",
+      "productPrice": "$79.00",
+      "filter":"women",
+      "productID":7,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-12.jpg",
+      "productImageBack": "https://yevgenysim-turkey.github.io/shopper/assets/img/products/product-12.jpg",
+      "category": "Shoes",
+      "productName": "Heel strappy Sandals",
+      "productPrice": "$90.00",
+      "filter":"women",
+      "productID":8,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+
+    
+
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/10339033/2022/4/25/3170e623-ab80-4678-9628-14cb6033ab171650883660619USPoloAssnMenWhiteClarkinSneakers1.jpg",
+      "productImageBack": "https://assets.ajio.com/medias/sys_master/root/20210724/S05D/60fb25e5f997ddb31236f5c0/-473Wx593H-460934418-offwhite-MODEL2.jpg",
+      "category": "Shoes",
+      "productName": "Clarkin sneakers",
+      "productPrice": "$90.00",
+      "filter":"men",
+      "productID":9,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/h_373,q_80,w_280/v1/assets/images/2437095/2018/2/12/11518440292437-British-Club-Men-Shirts-9351518440292249-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/h_373,q_80,w_280/v1/assets/images/2437095/2018/2/12/11518440292437-British-Club-Men-Shirts-9351518440292249-1.jpg",
+      "category": "Shirts",
+      "productName": "Black Checkered Shirt",
+      "productPrice": "$110.00",
+      "filter":"men",
+      "productID":10,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/fl_progressive/h_960,q_80,w_720/v1/assets/images/1718915/2017/5/2/11493706882423-Mast--Harbour-Men-Olive-Brown-Semiformal-Slip-Ons-4911493706882290-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/fl_progressive/h_960,q_80,w_720/v1/assets/images/1718915/2017/5/2/11493706882423-Mast--Harbour-Men-Olive-Brown-Semiformal-Slip-Ons-4911493706882290-1.jpg",
+      "category": "Shoes",
+      "productName": "Clarkin Loafers",
+      "productPrice": "$60.00",
+      "filter":"men",
+      "productID":11,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6970061/2018/8/9/b0f68bb4-289d-4d66-88f4-6cec5e0cd75c1533805504116-Being-Human-Men-Tshirts-6581533805498621-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6970061/2018/8/9/b0f68bb4-289d-4d66-88f4-6cec5e0cd75c1533805504116-Being-Human-Men-Tshirts-6581533805498621-1.jpg",
+      "category": "T-shirt",
+      "productName": "Cotton slim fit Tshirt",
+      "productPrice": "$30.00",
+      "filter":"men",
+      "productID":12,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17544834/2022/3/16/f8b97d0e-e977-49aa-9890-94dc55b7d7981647410491161AllenSollyMenNavyBlueCheckedSingle-BreastedSlim-FitCasualBla1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17544834/2022/3/16/f8b97d0e-e977-49aa-9890-94dc55b7d7981647410491161AllenSollyMenNavyBlueCheckedSingle-BreastedSlim-FitCasualBla1.jpg",
+      "category": "Blazer",
+      "productName": "Raymond premium blazer",
+      "productPrice": "$390.00",
+      "filter":"men",
+      "productID":13,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18743256/2022/6/15/aa3d8a97-e9d2-4348-aa21-f1869aabde031655293830776Smallshoulderbag1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18743256/2022/6/15/aa3d8a97-e9d2-4348-aa21-f1869aabde031655293830776Smallshoulderbag1.jpg",
+      "category": "Bags",
+      "productName": "Sling Bag",
+      "productPrice": "$20.00",
+      "filter":"men",
+      "productID":14,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18019538/2022/5/31/ed586917-db1b-4bd3-a7ea-6548dd6c8afd1653999097587-FUGAZEE-Men-Black-Relaxed-Loose-Fit-Cargos-Trousers-90116539-3.jpg",
+      "productImageBack":  "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18019538/2022/5/31/ed586917-db1b-4bd3-a7ea-6548dd6c8afd1653999097587-FUGAZEE-Men-Black-Relaxed-Loose-Fit-Cargos-Trousers-90116539-3.jpg",
+      "category": "Pants",
+      "productName": "Cargo Bottoms",
+      "productPrice": "$35.00",
+      "filter":"men",
+      "productID":15,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18737938/2022/8/25/9e1e4a9f-4561-48b8-a8ed-9fa5a09c43b11661421797067-ADIDAS-Men-Sandals-6441661421796802-1.jpg",
+      "productImageBack":  "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/18737938/2022/8/25/9e1e4a9f-4561-48b8-a8ed-9fa5a09c43b11661421797067-ADIDAS-Men-Sandals-6441661421796802-1.jpg",
+      "category": "Shoes",
+      "productName": "Sports Sandals",
+      "productPrice": "$25.00",
+      "filter":"men",
+      "productID":16,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+
+
+   
+
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17038648/2022/10/20/c3b49437-33ab-40d7-a9f3-50683823b8651666260053917-US-Polo-Assn-Kids-Boys-Shirts-3431666260053530-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17038648/2022/10/20/c3b49437-33ab-40d7-a9f3-50683823b8651666260053917-US-Polo-Assn-Kids-Boys-Shirts-3431666260053530-1.jpg",
+      "category": "Shirts",
+      "productName": "Turqoise striped boys shirt",
+      "productPrice": "$25.00",
+      "filter":"children",
+      "productID":17,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19892788/2022/9/9/33291f27-0e88-49d1-908c-d870f3ada1871662736762678Textured-knitdress1.jpg",
+      "productImageBack":  "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19892788/2022/9/9/33291f27-0e88-49d1-908c-d870f3ada1871662736762678Textured-knitdress1.jpg",
+      "category": "Dresses",
+      "productName": "Textured knit Dress",
+      "productPrice": "$35.00",
+      "filter":"children",
+      "productID":18,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19412048/2022/9/19/91e7f643-ea80-4bb0-a91a-6eebe49d33261663580099098-Crocs-Unisex-Kids-Sandals-7491663580098758-1.jpg",
+      "productImageBack":  "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19412048/2022/9/19/91e7f643-ea80-4bb0-a91a-6eebe49d33261663580099098-Crocs-Unisex-Kids-Sandals-7491663580098758-1.jpg",
+      "category": "Shoes",
+      "productName": "Unisex Kids Bayaband Clogs",
+      "productPrice": "$65.00",
+      "filter":"children",
+      "productID":19,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12955910/2020/11/26/bf4a888d-2ed0-4dc1-aecf-2f3c9c83e8631606387494853-United-Colors-of-Benetton-Boys-Blue-Solid-Round-Neck-T-shirt-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12955910/2020/11/26/bf4a888d-2ed0-4dc1-aecf-2f3c9c83e8631606387494853-United-Colors-of-Benetton-Boys-Blue-Solid-Round-Neck-T-shirt-1.jpg",
+      "category": "Tshirts",
+      "productName": "Benetton blue tshirt",
+      "productPrice": "$15.00",
+      "filter":"children",
+      "productID":20,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20569468/2022/11/1/7839384c-b9fe-4fe6-889c-3354a38819d41667291920998VMartGirlsPrintedPolyCottonSingleJerseyRoundNeckT-Shirt1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20569468/2022/11/1/7839384c-b9fe-4fe6-889c-3354a38819d41667291920998VMartGirlsPrintedPolyCottonSingleJerseyRoundNeckT-Shirt1.jpg",
+      "category": "Tops",
+      "productName": "Printed cotton Tshirt",
+      "productPrice": "$25.00",
+      "filter":"children",
+      "productID":21,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12931366/2021/8/26/cdc27ba5-b035-4343-ab05-df0196b453481629917826689CherryCrumbleGirlsBlueSolidNightsuit1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/12931366/2021/8/26/cdc27ba5-b035-4343-ab05-df0196b453481629917826689CherryCrumbleGirlsBlueSolidNightsuit1.jpg",
+      "category": "Nightwear",
+      "productName": "Blue woolen Night suit",
+      "productPrice": "$35.00",
+      "filter":"children",
+      "productID":22,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17540734/2022/3/28/bd8752fd-c0d8-4cbb-8f14-a226510a3c161648463621796-toothless-Boys-Casual-Shoes-5551648463621366-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17540734/2022/3/28/bd8752fd-c0d8-4cbb-8f14-a226510a3c161648463621796-toothless-Boys-Casual-Shoes-5551648463621366-1.jpg",
+      "category": "Shoes",
+      "productName": "Kids revolution 4 running",
+      "productPrice": "$25.00",
+      "filter":"children",
+      "productID":23
+    },
+    {
+      "productImageFront": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14303986/2022/2/28/bde8981c-0b7b-4031-ba0d-48a84e68136e1646051486624-Skybags-Unisex-Kids-Backpacks-8621646051485796-1.jpg",
+      "productImageBack": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/14303986/2022/2/28/bde8981c-0b7b-4031-ba0d-48a84e68136e1646051486624-Skybags-Unisex-Kids-Backpacks-8621646051485796-1.jpg",
+      "category": "Bags",
+      "productName": "Skybags Air Dorn",
+      "productPrice": "$55.00",
+      "filter":"children",
+      "productID":24,
+      "detail":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+
+  }
+  
+  

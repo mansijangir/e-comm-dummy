@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+.timer-container
+{
+    padding-bottom: 8rem!important;
+    padding-top: 8rem!important;
+    width: 100%;
+}
+
+.timer-box{
+  width: 100%;
+}
+@media (min-width: 1024px) {
+    .timer-box{
+        max-width: 1140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+       
+        margin: auto;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .timer-box {
+        max-width: 1140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+       
+        margin: auto;
+    }
+  }
+.sale-heading
+{
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 2rem;
+    margin-top: 0;
+    font-size: 2rem; 
+    
+}
+.countdown-container
+{
+    margin-bottom: 3rem;
+    display: flex;
+ 
+    
+}
+
+.timer-text
+{
+    padding: 0 1rem;
+    width: 100%;
+}
+@media (min-width: 1024px) {
+    .timer-text{
+        width: 50%;
+    }
+  }
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .timer-text{
+        width: 50%;
+    }
+  }
+.timer-link
+{
+   
+    background-color: #1f1f1f;
+    border-color: #1f1f1f;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+    padding: 0.875rem 1.75rem;
+    text-align: center;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.timer-link:hover .fa {
+    transform: translateX(4px);
+    color: #fff;
+  }
+  .time-digit, .colon
+  {
+color: #ff6f61;
+font-size: 44px;
+font-family: "jost";
+font-weight: 600;
+margin: 0 6px;
+  }
+.time-name
+{
+    text-align: center;
+    font-weight: 500;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+    font-size: .8125rem;
+    color: grey;
+
+}

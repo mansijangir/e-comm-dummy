@@ -1,0 +1,80 @@
+.brand-box {
+  background-color: rgb(245, 245, 245);
+  padding: 96px 0;
+}
+.brand-container {
+  max-width: 1140px;
+  margin: auto;
+}
+.brand-img-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-bottom: 4rem;
+  cursor: pointer;
+
+  
+}
+@media (min-width: 1024px) {
+    .brand-img-container{
+        grid-template-columns: auto auto auto auto auto auto;
+  }}
+  @media (min-width: 768px) and (max-width: 1024p) {
+    .brand-img-container{
+        grid-template-columns: auto auto auto auto;
+       
+  }}
+.brand-img-card {
+  max-width: 100%;
+  padding: 0 0.25rem;
+  position: relative;
+}
+
+.brand-img {
+  width: 100%;
+}
+.brandbox-text {
+  text-align: center;
+}
+.brandbox-heading {
+  margin-bottom: 0.75rem;
+  font-size: 2.25rem;
+  font-weight: 500;
+  line-height: 1.2;
+
+  margin-top: 0;
+}
+.brandbox-para {
+  color: #525252;
+  font-size: 1.125rem;
+  margin-bottom: 4rem;
+  margin-top: 0;
+}
+.brand-logo-container {
+  display: flex;
+ justify-content: center;
+  margin-bottom: 4rem;
+  flex-wrap: wrap;
+}
+@media (min-width: 1024px) {
+    .brand-logo-container{
+       
+ 
+  justify-content: space-between;
+  }}
+  @media (min-width: 768px) and (max-width: 1024p) {
+    .brand-logo-container{
+        flex-wrap: wrap;
+       
+        justify-content: space-between;
+       
+  }}
+
+.brand-logo-card {
+  padding: 0 16px;
+  margin-bottom: 2rem;
+}
+.brand-logo {
+  width: 100%;
+  margin-bottom: 0;
+  max-height: 20px;
+}

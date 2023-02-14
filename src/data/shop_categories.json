@@ -1,0 +1,19 @@
+{
+    "shop_categories":[
+      {
+        "categoryName":"women",
+        "categoryImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/covers/cover-1.jpg",
+        "categoryShop":"shop women"
+      },
+      {
+        "categoryName":"men",
+        "categoryImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/covers/cover-2.jpg",
+        "categoryShop":"shop men"
+      },
+      {
+        "categoryName":"kids",
+        "categoryImg":"https://yevgenysim-turkey.github.io/shopper/assets/img/covers/cover-3.jpg",
+        "categoryShop":"shop kids"
+      }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "features":
+[
+    {
+       "featureName":"FREE SHIPPING",
+       "featureConditions":"From all orders over $100",
+       "featureIcon":"fa-regular fa-truck"
+    },
+    {
+        "featureName":"FREE RETURNS",
+        "featureConditions":"Return money within 30 days",
+       "featureIcon":"fa-regular fa-repeat"
+     },
+     {
+        "featureName":"SECURE SHOPPING",
+        "featureConditions":"You're in safe hands",
+        "featureIcon":"fa-regular fa-lock"
+     },
+     {
+        "featureName":"OVER 10,000 STYLES",
+        "featureConditions":"We have everything you need",
+        "featureIcon":"fa-regular fa-tag"
+     }
+]
+}

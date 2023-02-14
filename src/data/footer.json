@@ -1,0 +1,16 @@
+{"footer":{
+    "footerSocialIcons":
+    [
+        "fa-brands fa-facebook-f","fa-brands fa-youtube","fa-brands fa-twitter","fa-brands fa-instagram","fa-brands fa-medium"
+    ],
+
+    "support":
+    [ "conact us","FAQs","size guide","shipping & returns"],
+    "shop":
+    ["Men's Shopping","Women's Shopping","Kids' Shopping","Discounts"],
+    "company":
+    ["Our Story",  "Careers","Terms & Conditions", "Privacy & Cookie policy"],
+    "contact":
+    ["1-202-555-0105","1-202-555-0106", "help@shopper.com"]
+}
+}

@@ -1,0 +1,19 @@
+{
+    "header":
+    {
+
+        "home":["Default","Classic","Fashion","Boxed","Simple", "Asymmetric", "Sidenav","Landing"],
+
+        "shop":["Default","Classic","Fashion","Boxed","Simple", "Asymmetric", "Sidenav","Landing"],
+
+        "pages":["Default","Classic","Fashion","Boxed","Simple", "Asymmetric", "Sidenav","Landing"],
+
+        "blogs":["blog","blogpost"]
+
+
+    
+    },
+
+    "icons":
+    ["fa-regular fa-magnifying-glass", "fa-regular fa-user", "fa-regular fa-heart", "fa-regular fa-cart-shopping"]
+}

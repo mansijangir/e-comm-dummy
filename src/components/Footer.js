@@ -13,7 +13,7 @@ export default function Footer() {
             <h3 className="footer-form-heading">Want style Ideas and Treats?</h3>
             <form action="" className="footer-form" onSubmit={handleSubmit}>
                <div className="form-flex"><input className='form-input' placeholder='Enter Email *'></input>
-               <a className='form-btn'>Subscribe</a></div> 
+               <a className='form-btn'href="a.html">Subscribe</a></div> 
             </form>
         </div>
    <div className="footer-main">
@@ -23,7 +23,7 @@ export default function Footer() {
      {
         FooterData.footer.footerSocialIcons.map((social)=>
         {
-          return ( <li><i className={`${social}`+" icon-list-item"}></i></li>)
+          return ( <li><i className={`${social} icon-list-item`}></i></li>)
         })
      }
       </ul>

@@ -1,4 +1,4 @@
-import React, { useState, useRef } from "react";
+import React, { useState} from "react";
 import { useEffect } from "react";
 import Data from "../data/topseller.json";
 import "../style/topseller.css";
@@ -6,7 +6,7 @@ import { Modal } from "react-bootstrap";
 
 export default function Topsellers(props) {
   console.log(props)
-  const detailRef = useRef();
+  // const detailRef = useRef();
   const [items, setItems] = useState(Data.topsellers);
   const [toggleActivetab, setToggleActivetab] = useState("women");
   const [show, setShow] = useState(false);
@@ -163,7 +163,7 @@ export default function Topsellers(props) {
         <Modal.Body>
           <div className="modal-body">
             <div className="modal-image-container">
-              <img className="modal-image" src={productDetails.productImageFront}/>
+              <img className="modal-image" src={productDetails.productImageFront} alt=""/>
             </div>
             <div className="modal-desc-container">
               <h3 className="product-category">{productDetails.category}</h3>

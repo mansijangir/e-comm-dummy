@@ -84,7 +84,7 @@ export default function Timer() {
             </div>
             
           </div>
-          <a className="timer-link">
+          <a className="timer-link" href="a.html">
             Shop Now<i className="fa fa-solid fa-arrow-right"></i>
           </a>
         </div>

@@ -29,7 +29,8 @@ export default function Bestpicks() {
                     <h4 className="bestpick-name">
                       {bestpick.collectionName}
                     </h4>
-                    <a className="bestpick-link">
+                    <a href="a.html"
+                    className="bestpick-link">
                       Shop Now<i className="fa fa-solid fa-arrow-right"></i>
                     </a>
                   </div>
@@ -50,7 +51,7 @@ export default function Bestpicks() {
                     <h4 className="bestpick-name">
                       {bestpickbtm.collectionName}
                     </h4>
-                    <a className="bestpick-link">
+                    <a href="a.html" className="bestpick-link">
                       Shop Now<i className="fa fa-solid fa-arrow-right"></i>
                     </a>
                   </div>

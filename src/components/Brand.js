@@ -15,7 +15,7 @@ export default function Brand() {
             return(
                 <div className="brand-img-card" key={index}>
                     
-                <img src={brand} className="brand-img"></img>
+                <img src={brand} className="brand-img" alt=''></img>
                 </div>
             )
         })
@@ -26,7 +26,7 @@ export default function Brand() {
         brandData.brandLogoData.map((brand,index) =>{
             return(
                 <div className="brand-logo-card" key={index}>
-                <img src={brand} className="brand-logo"></img>
+                <img src={brand} className="brand-logo" alt=''></img>
                 </div>
             )
         })
